@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="" group-title="None",Not For Sale
+http://202.57.43.60:8443/live/3aac2e6ace0f81f5946afe22130cb0f7/100.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2b/Kapamilya_Channel_logo.svg/revision/latest/scale-to-width-down/732?cb=20200819050409" group-title="None",Kapamilya Channel
 http://202.57.43.60:8443/live/3aac2e6ace0f81f5946afe22130cb0f7/100.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/78/PTV4-LOGO-2017.svg/revision/latest/scale-to-width-down/340?cb=20200806143624 group-title="None",PTV 4
@@ -15,41 +17,41 @@ http://202.57.43.60:8443/live/3aac2e6ace0f81f5946afe22130cb0f7/109.m3u8
 http://202.57.43.60:8443/live/3aac2e6ace0f81f5946afe22130cb0f7/127.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3a/PBO_PNG-og_image.png/revision/latest/scale-to-width-down/732?cb=20201209065132" group-title="None",PBO
 http://202.57.43.60:8443/live/3aac2e6ace0f81f5946afe22130cb0f7/110.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c2/GMA.png/revision/latest/scale-to-width-down/732?cb=20180729034754 group-title="None",Jeepney TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/51/JTV2015.svg/revision/latest/scale-to-width-down/1000?cb=20160824071938" group-title="None",Jeepney TV
 http://202.57.43.60:8443/live/3aac2e6ace0f81f5946afe22130cb0f7/106.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9c/IBC13_Logo_2011.svg/revision/latest/scale-to-width-down/732?cb=20200505184109" group-title="None",PinoyXtreme
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0c/Pinoy_Extreme_logo.jpg/revision/latest/scale-to-width-down/389?cb=20171213040302" group-title="None",PinoyXtreme
 http://202.57.43.60:8443/live/3aac2e6ace0f81f5946afe22130cb0f7/124.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/42/CinemaOne.svg/revision/latest/scale-to-width-down/340?cb=20200506211757" group-title="None",A2Z
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/87/A2Z_Channel_11_logo.svg/revision/latest/scale-to-width-down/512?cb=20210103173417" group-title="None",A2Z
 http://202.57.43.60:8443/live/3aac2e6ace0f81f5946afe22130cb0f7/105.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7c/Cine_mo.png/revision/latest/scale-to-width-down/340?cb=20171125051538" group-title="None",ANC
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a2/ANC-2015_%28rev2%29.svg/revision/latest/scale-to-width-down/1000?cb=20151026094948" group-title="None",ANC
 http://202.57.43.60:8443/live/3aac2e6ace0f81f5946afe22130cb0f7/103.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3a/PBO_PNG-og_image.png/revision/latest/scale-to-width-down/732?cb=20201209065132" group-title="None",GTV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/02/GTV_Philippines_%28official_logo%29.png/revision/latest/scale-to-width-down/822?cb=20210302112414" group-title="None",GTV
 http://202.57.43.60:8443/live/3aac2e6ace0f81f5946afe22130cb0f7/107.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c2/GMA.png/revision/latest/scale-to-width-down/732?cb=20180729034754 group-title="None",CNN Philippines
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/48/CNN_Philippines_Logo.svg/revision/latest/scale-to-width-down/512?cb=20200505183052" group-title="None",CNN Philippines
 http://202.57.43.60:8443/live/3aac2e6ace0f81f5946afe22130cb0f7/104.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9c/IBC13_Logo_2011.svg/revision/latest/scale-to-width-down/732?cb=20200505184109" group-title="None",DZRH
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/93/DZRH_80.jpg/revision/latest/scale-to-width-down/960?cb=20190511220824" group-title="None",DZRH
 http://202.57.43.60:8443/live/3aac2e6ace0f81f5946afe22130cb0f7/108.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/42/CinemaOne.svg/revision/latest/scale-to-width-down/340?cb=20200506211757" group-title="None",One Sports
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7e/One_Sports_%28TV_network%29.png/revision/latest/scale-to-width-down/780?cb=20200308081417" group-title="None",One Sports
 http://202.57.43.60:8443/live/3aac2e6ace0f81f5946afe22130cb0f7/114.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7c/Cine_mo.png/revision/latest/scale-to-width-down/340?cb=20171125051538" group-title="None",One PH
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/09/One_PH_logo_2020.png/revision/latest/scale-to-width-down/1000?cb=20210222070627" group-title="None",One PH
 http://202.57.43.60:8443/live/3aac2e6ace0f81f5946afe22130cb0f7/115.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3a/PBO_PNG-og_image.png/revision/latest/scale-to-width-down/732?cb=20201209065132" group-title="None",Solar Learning
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/90/SOLARLEARNING.png/revision/latest/scale-to-width-down/756?cb=20200815083543" group-title="None",Solar Learning
 http://202.57.43.60:8443/live/3aac2e6ace0f81f5946afe22130cb0f7/123.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c2/GMA.png/revision/latest/scale-to-width-down/732?cb=20180729034754 group-title="None",Solar
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/da/Solar_Entertainment_Corporation_logo.jpg/revision/latest/scale-to-width-down/1000?cb=20140224043418" group-title="None",Solar
 http://202.57.43.60:8443/live/3aac2e6ace0f81f5946afe22130cb0f7/118.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9c/IBC13_Logo_2011.svg/revision/latest/scale-to-width-down/732?cb=20200505184109" group-title="None",SariSari
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/22/Sari-Sari_Channel_logo.png/revision/latest/scale-to-width-down/250?cb=20151206073105" group-title="None",SariSari
 http://202.57.43.60:8443/live/3aac2e6ace0f81f5946afe22130cb0f7/139.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/42/CinemaOne.svg/revision/latest/scale-to-width-down/340?cb=20200506211757" group-title="None",K Channel
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/50/Knowledge-Channel-2010-Logo-ABS-CBN-Philippines.png/revision/latest/scale-to-width-down/900?cb=20181001092821" group-title="None",K Channel
 http://202.57.43.60:8443/live/3aac2e6ace0f81f5946afe22130cb0f7/135.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7c/Cine_mo.png/revision/latest/scale-to-width-down/340?cb=20171125051538" group-title="None",Animax
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/32/36BB0572-D313-4716-816C-042AA4D6B842.png/revision/latest/scale-to-width-down/400?cb=20180112080056" group-title="None",Animax
 http://202.57.43.60:8443/live/3aac2e6ace0f81f5946afe22130cb0f7/125.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3a/PBO_PNG-og_image.png/revision/latest/scale-to-width-down/732?cb=20201209065132" group-title="None",Disney Channel
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/Disney_channel_2019.svg/revision/latest/scale-to-width-down/1000?cb=20200320115508" group-title="None",Disney Channel
 http://202.57.43.60:8443/live/3aac2e6ace0f81f5946afe22130cb0f7/126.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c2/GMA.png/revision/latest/scale-to-width-down/732?cb=20180729034754 group-title="None",Cartoon Network
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ee/Cartoon_Network_2010.svg/revision/latest/scale-to-width-down/1000?cb=20190401004340" group-title="None",Cartoon Network
 http://136.243.177.164/CARTOONNETWORK/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9c/IBC13_Logo_2011.svg/revision/latest/scale-to-width-down/732?cb=20200505184109" group-title="None",HBO
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c1/HBO.svg/revision/latest/scale-to-width-down/1000?cb=20201126030141" group-title="None",HBO
 http://202.57.43.60:8443/live/3aac2e6ace0f81f5946afe22130cb0f7/98.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/42/CinemaOne.svg/revision/latest/scale-to-width-down/340?cb=20200506211757" group-title="None",Cinemax
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/66/Cinemax_2016.svg/revision/latest/scale-to-width-down/1000?cb=20171203110447" group-title="None",Cinemax
 http://202.57.43.60:8443/live/3aac2e6ace0f81f5946afe22130cb0f7/111.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7c/Cine_mo.png/revision/latest/scale-to-width-down/340?cb=20171125051538" group-title="None",Fox Movies
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ae/Fox_Movies_%28Asia%29.svg/revision/latest/scale-to-width-down/1000?cb=20170610113934" group-title="None",Fox Movies
 http://202.57.43.60:8443/live/3aac2e6ace0f81f5946afe22130cb0f7/127.m3u8
