@@ -37,8 +37,6 @@ http://202.57.43.60:8443/live/3aac2e6ace0f81f5946afe22130cb0f7/114.m3u8
 http://202.57.43.60:8443/live/3aac2e6ace0f81f5946afe22130cb0f7/115.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/90/SOLARLEARNING.png/revision/latest/scale-to-width-down/756?cb=20200815083543" group-title="None",Solar Learning
 http://202.57.43.60:8443/live/3aac2e6ace0f81f5946afe22130cb0f7/123.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/da/Solar_Entertainment_Corporation_logo.jpg/revision/latest/scale-to-width-down/1000?cb=20140224043418" group-title="None",Solar
-http://202.57.43.60:8443/live/3aac2e6ace0f81f5946afe22130cb0f7/118.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/22/Sari-Sari_Channel_logo.png/revision/latest/scale-to-width-down/250?cb=20151206073105" group-title="None",SariSari
 http://202.57.43.60:8443/live/3aac2e6ace0f81f5946afe22130cb0f7/139.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/50/Knowledge-Channel-2010-Logo-ABS-CBN-Philippines.png/revision/latest/scale-to-width-down/900?cb=20181001092821" group-title="None",K Channel
@@ -50,12 +48,12 @@ http://72.255.34.227:8000/play/a02k/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/49/Boomerang_2015.svg/revision/latest/scale-to-width-down/1000?cb=20190430185347" group-title="None",Boomerang
 http://200.54.19.131:8500/play/a0h9/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/Disney_channel_2019.svg/revision/latest/scale-to-width-down/1000?cb=20200320115508" group-title="None",Disney Channel
-http://200.54.19.131:8500/play/a0jr/index.m3u8
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/514
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7f/Disney_Junior_Logo_2020.png/revision/latest/scale-to-width-down/1000?cb=20201007202007" group-title="None",Disney Junior
-http://200.54.19.131:8500/play/a0g5/index.m3u8
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/513
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/13/Logo_disney_xd.svg/revision/latest/scale-to-width-down/725?cb=20180903211953" group-title="None",Disney XD
-http://200.54.19.131:8500/play/a0js/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Nickelodeon_%282009%29.svg/revision/latest/scale-to-width-down/1000?cb=20210206092434" group-title="None",Nickelodion
-http://72.255.34.227:8000/play/a02y/index.m3u8
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/512
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Nickelodeon_%282009%29.svg/revision/latest/scale-to-width-down/1000?cb=20210206092434" group-title="None",Nickelodeon
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/754
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/55/Nick_Jr..svg/revision/latest/scale-to-width-down/1000?cb=20200621143500" group-title="None",Nick Jr
 http://72.255.34.227:8000/play/a02s/index.m3u8
