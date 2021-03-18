@@ -48,7 +48,7 @@ http://202.57.43.60:8443/live/3aac2e6ace0f81f5946afe22130cb0f7/125.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/Disney_channel_2019.svg/revision/latest/scale-to-width-down/1000?cb=20200320115508" group-title="None",Disney Channel
 http://202.57.43.60:8443/live/3aac2e6ace0f81f5946afe22130cb0f7/126.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ee/Cartoon_Network_2010.svg/revision/latest/scale-to-width-down/1000?cb=20190401004340" group-title="None",Cartoon Network
-http://103.157.249.122:5005/play/a014/index.m3u8
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD28_W_250.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c1/HBO.svg/revision/latest/scale-to-width-down/1000?cb=20201126030141" group-title="None",HBO
 http://202.57.43.60:8443/live/3aac2e6ace0f81f5946afe22130cb0f7/98.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/66/Cinemax_2016.svg/revision/latest/scale-to-width-down/1000?cb=20171203110447" group-title="None",Cinemax
