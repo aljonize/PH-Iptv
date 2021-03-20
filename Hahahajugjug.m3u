@@ -31,6 +31,8 @@ http://202.57.43.60:8443/live/3aac2e6ace0f81f5946afe22130cb0f7/107.m3u8
 http://202.57.43.60:8443/live/3aac2e6ace0f81f5946afe22130cb0f7/104.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/93/DZRH_80.jpg/revision/latest/scale-to-width-down/960?cb=20190511220824" group-title="None",DZRH
 http://202.57.43.60:8443/live/3aac2e6ace0f81f5946afe22130cb0f7/108.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PH: Al Jazeera HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/239de1f410cb55555c0bcb897a88de95.png" group-title="Philippines",PH: Al Jazeera HD
+http://solotv.me:8080/Line1698/b88d5078/144822
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7e/One_Sports_%28TV_network%29.png/revision/latest/scale-to-width-down/780?cb=20200308081417" group-title="None",One Sports
 http://202.57.43.60:8443/live/3aac2e6ace0f81f5946afe22130cb0f7/114.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/09/One_PH_logo_2020.png/revision/latest/scale-to-width-down/1000?cb=20210222070627" group-title="None",One PH
@@ -73,12 +75,14 @@ http://37723998.to:2052/dale1/1234/20741
 http://bornw1ld.cyou:8080/OVOmainoneWgTkI/468TGE75ffji6453/137827
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/59/FoodNetLogo.svg/revision/latest/scale-to-width-down/1000?cb=20170817165558" group-title="None",Food Network
 http://bornw1ld.cyou:8080/OVOmainoneWgTkI/468TGE75ffji6453/137699
+#EXTINF:-1 tvg-id="" tvg-name="PH: Asian Food Channel" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/0cf26c4868361326b1c56886e8c6f0be.png" group-title="Philippines",PH: Asian Food Channel
+http://solotv.me:8080/Line1698/b88d5078/144847
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/49/Bravo_2017.svg/revision/latest/scale-to-width-down/512?cb=20210104225904" group-title="None",Bravo
 http://37723998.to:2052/dale1/1234/42997
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e9/FoxBCLogo2019.svg/revision/latest/scale-to-width-down/1000?cb=20191121082502" group-title="None",FOX
 http://supersonictv.live:25461/903310/034806/22086
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dc/2016_AXN_logo.svg/revision/latest/scale-to-width-down/512?cb=20201126064846" group-title="None",AXN HD
-http://supertexasiptv.ddns.net:8000/bktv.xyz/qLqJNcj9rd/74
+#EXTINF:-1 tvg-id="" tvg-name="PH: AXN" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/a05464770cd13ec7b1799c6594a9767e.png" group-title="Philippines",PH: AXN
+http://solotv.me:8080/Line1698/b88d5078/144831
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/45/AMC_%282019%29.svg/revision/latest/scale-to-width-down/1000?cb=20190713011740" group-title="None",AMC
 http://supersonictv.live:25461/903310/034806/22042
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4f/E%21_%282012%29.svg/revision/latest/scale-to-width-down/512?cb=20210104232934" group-title="None",E!
@@ -137,3 +141,11 @@ https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/PARAMOUNT-HD-720p/playlist.m3u8
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXMOVIES-HD-1080p/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/aa/Comedy_Central_2018.svg/revision/latest/scale-to-width-down/1000?cb=20191223064712" group-title="None",Comedy Central
 http://37723998.to:2052/dale1/1234/43002
+#EXTINF:-1 tvg-id="" tvg-name="PH: BLUE ANT ENTER" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Philippines",PH: BLUE ANT ENTER
+http://solotv.me:8080/Line1698/b88d5078/266845
+#EXTINF:-1 tvg-id="" tvg-name="PH: Blue Ant Entertainment" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/c30f76f413af7868e8478dec74b2d63d.png" group-title="Philippines",PH: Blue Ant Entertainment
+http://solotv.me:8080/Line1698/b88d5078/144849
+#EXTINF:-1 tvg-id="" tvg-name="PH: BLUE ANT EXT" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Philippines",PH: BLUE ANT EXT
+http://solotv.me:8080/Line1698/b88d5078/266846
+#EXTINF:-1 tvg-id="" tvg-name="PH: Blue Ant Extreme" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/b189d71b7088d6bddf6e4bbf678eab6b.png" group-title="Philippines",PH: Blue Ant Extreme
+http://solotv.me:8080/Line1698/b88d5078/144848
