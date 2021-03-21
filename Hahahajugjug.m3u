@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="http://virtualresults.net/wp-content/uploads/2017/11/Buying-a-House-That-Isn%E2%80%99t-For-Sale-2-300x300.jpg" group-title="None",This list is Not For Sale
-https://youtu.be/bFrYKSS2jvE
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95396f932c837b49397360/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2b/Kapamilya_Channel_logo.svg/revision/latest/scale-to-width-down/732?cb=20200819050409" group-title="None",Kapamilya Channel
 http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/100.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SMNI" tvg-logo="https://i.imgur.com/l2JSQme.png" group-title="(no group)",SMNI
@@ -101,10 +101,6 @@ https://bozztv.com/teleyupp/teleup-tlc/playlist.m3u8
 http://bornw1ld.cyou:8080/OVOmainoneWgTkI/468TGE75ffji6453/137699
 #EXTINF:-1 tvg-id="" tvg-name="PH: Asian Food Channel" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/0cf26c4868361326b1c56886e8c6f0be.png" group-title="Philippines",Asian Food Channel
 http://solotv.me:8080/Line1698/b88d5078/144847
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/49/Bravo_2017.svg/revision/latest/scale-to-width-down/512?cb=20210104225904" group-title="None",Bravo
-http://37723998.to:2052/dale1/1234/42997
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e9/FoxBCLogo2019.svg/revision/latest/scale-to-width-down/1000?cb=20191121082502" group-title="None",FOX
-http://supersonictv.live:25461/903310/034806/22086
 #EXTINF:-1 tvg-id="" tvg-name="PH: AXN" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/a05464770cd13ec7b1799c6594a9767e.png" group-title="Philippines",AXN
 http://solotv.me:8080/Line1698/b88d5078/144831
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/45/AMC_%282019%29.svg/revision/latest/scale-to-width-down/1000?cb=20190713011740" group-title="None",AMC
