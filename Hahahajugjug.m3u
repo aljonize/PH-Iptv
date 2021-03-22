@@ -43,6 +43,12 @@ http://202.57.43.60:8443/live/3aac2e6ace0f81f5946afe22130cb0f7/108.m3u8
 http://202.57.43.60:8443/live/3aac2e6ace0f81f5946afe22130cb0f7/104.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PH: Al Jazeera HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/239de1f410cb55555c0bcb897a88de95.png" group-title="News",Al Jazeera HD
 http://iptv.live-plus.me:25461/xQo77lvl79/U6m7QCkfxC/255
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTFnf22GZ9YOwThSvjiqOhWlfFy2G2Sn2RL9Q&usqp=CAU" group-title="News",NHK World Japan
+https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
+#EXTINF:-1 tvg-logo="https://logodix.com/logo/1279008.png" group-title="News", Bloomberg
+http://210.210.155.35/session/1f4b9814-7ed5-11e8-aa50-c81f66f89318/uq2663/h/h03/01.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yc1kVr5/bloomberg-business-logo.png" group-title="News", Bloomberg Business
+https://liveprodusphoenixeast.global.ssl.fastly.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-03-0Yn1cQZHOtP_live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/CNA_2019.svg/revision/latest/scale-to-width-down/1000?cb=20190417224656" group-title="News",Channel News Asia
 http://solotv.me:8080/Line1698/b88d5078/172070
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/52/CNN_%282014%29.svg/revision/latest/scale-to-width-down/1000?cb=20180509053533" group-title="News",CNN
@@ -113,6 +119,16 @@ http://solotv.me:8080/Line1698/b88d5078/144847
 http://ed8.oknirvana.club:8880/Upjcd6aFC4/GLNuhnKcg6/3090
 #EXTINF:-1 tvg-id="" tvg-name="PH: AXN" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/a05464770cd13ec7b1799c6594a9767e.png" group-title="Entertainment",AXN
 http://solotv.me:8080/Line1698/b88d5078/144831
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Rjpsm5T/FOXLife-LA-1.png" group-title="Entertainment",FOX Life
+https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/full/302-3027403_fx-logo-fx-logo-white-png.png" group-title="Entertainment",FX
+https://bozztv.com/teleyupp/teleup-fxhd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6gSpbc5/C-I-logo.png" group-title="Entertainment",Crime + Investigation
+http://203.154.243.31:15001
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mvqBWn9/WarnerTV.png" group-title="Entertainment",Warner TV
+http://203.154.243.89:11205/
+#EXTINF:-1 tvg-logo="https://i.ibb.co/p4G5P34/ABC-TV-2021.png" group-title="Entertainment",ABC TV Australia
+https://c.mjh.nz/101002510251/
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/50/AMC_2013.png/revision/latest/scale-to-width-down/616?cb=20190716055604" group-title="Entertainment",AMC
 http://supersonictv.live:25461/903310/034806/22042
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/96/E%21_1990.svg/revision/latest/scale-to-width-down/309?cb=20180304103018" group-title="Entertainment",E!
@@ -155,10 +171,18 @@ http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
 https://content.uplynk.com/channel/01cd8b33410c4682bcba1404e10c841a.m3u8
 #EXTINF:-1 tvg-id="y" tvg-name="eGG Network" tvg-logo="https://battle-arena.my/wp-content/uploads/2018/09/egg_logo_reversed__B.png" group-title="Gaming",eGG Network
 http://210.210.155.35:80/session/d1b3a4ce-2ef5-11eb-87e1-c81f66f89318/uq2663/h/h22/01.m3u8
+#EXTINF:-1 tvg-logo="https://www.esrevolution.com/images/Logo_ESR_2Website1.png" group-title="Gaming",ESR
+https://esrevolution-sinclair.plex.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zS7ZnrP/2000-cb-20210309210208.png" group-title="Gaming",GINX
+http://ubaio.chaoniu1995.top:9967/ub/cr/crtv.php?id=425
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.dailyesports.gg/wp-content/uploads/2019/09/BLUE_ForWeb.png" group-title="Gaming",Venn
+https://venntv-ono.amagi.tv/playlist720p.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cd/PBA_Rush_logo.png/revision/latest/scale-to-width-down/2000?cb=20161115101642" group-title="Sports",PBA Rush
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/122.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7e/One_Sports_%28TV_network%29.png/revision/latest/scale-to-width-down/780?cb=20200308081417" group-title="Sports",One Sports
 http://103.11.112.28:1935/live2/smil:onesports.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/43/Nbatv.page_.png/revision/latest/scale-to-width-down/324?cb=20170731002804" group-title="Sports",NBA TV
-http://31.220.40.123:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/600
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/120.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/34/ESPN.svg/revision/latest/scale-to-width-down/512?cb=20201130040927" group-title="Sports",ESPN
 http://37723998.to:2052/dale1/1234/172142
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/52/WWE_Network.svg/revision/latest/scale-to-width-down/928?cb=20200925185931" group-title="Sports",WWE Network
@@ -171,6 +195,8 @@ http://37723998.to:2052/dale1/1234/174170
 http://37723998.to:2052/dale1/1234/174177
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7e/Thrill_logo.png/revision/latest/scale-to-width-down/390?cb=20170606050150" group-title="Movies",Thrill
 http://203.154.177.124:8899/live/ch21/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Jpvsybc/LotusTV.png" group-title="Movies",Lotus Macau
+http://live-hls.macaulotustv.com/lotustv/5562e9e4d409d24c9600075c.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ec/%26flix.svg/revision/latest/scale-to-width-down/620?cb=20200430075815" group-title="Movies",&Flix
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/79/Star_Movies_HD_%28Taiwan%29.jpg/revision/latest/scale-to-width-down/467?cb=20180702150524" group-title="Movies",Star Movies HD
@@ -181,6 +207,10 @@ https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/PARAMOUNT-HD-720p/playlist.m3u8
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXMOVIES-HD-1080p/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/51/Hallmark_Movies_%26_Mysteries_%28Gold%29.svg/revision/latest/scale-to-width-down/1000?cb=20171222094022" group-title="Entertainment",Hallmark Movies
 http://iptvportuguese.live:8010/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/16601
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logosfake/images/d/de/WOWOW_Cinema.png/revision/latest/scale-to-width-down/340?cb=20180131140829" group-title="Movies",WOWOW Cinema
+http://203.162.235.41:16916
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/73/Zee_Cinema_2017.svg/revision/latest/scale-to-width-down/2000?cb=20191222192752" group-title="Movies",Zee Cinema
+https://y5w8j4a9.ssl.hwcdn.net/cinemausa/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="Hbo.Asia" tvg-name="HBO" tvg-logo="https://i.ibb.co/xfgvmDd/HBO.png" group-title="Movies",HBO
 http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/113.m3u8
 #EXTINF:-1 tvg-id="Hbh.Asia" tvg-name="HBO Hits" tvg-logo="https://i.ibb.co/hcqXyL5/HBO-HiTS.png" group-title="Movies",HBO Hits
