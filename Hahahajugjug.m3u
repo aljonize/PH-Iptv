@@ -21,10 +21,8 @@ http://202.57.43.60:8443/live/3aac2e6ace0f81f5946afe22130cb0f7/98.m3u8
 https://ebc.sytes.net/hls/net25.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cine Mo! Philippines" tvg-logo="https://static.wikia.nocookie.net/russel/images/9/9a/Cine_Mo!_3D_Logo.png/revision/latest/scale-to-width-down/2000?cb=20210301131124" group-title="Movies",Cine Mo!
 http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/127.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cinema One Philippines" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Cinema_One_2013_logo.svg/1200px-Cinema_One_2013_logo.svg.png" group-title="Movies",Cinema One Philippines
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cinema One Philippines" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Cinema_One_2013_logo.svg/1200px-Cinema_One_2013_logo.svg.png" group-title="Movies",Cinema One
 http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/109.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cinema One" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Cinema_One_2013_logo.svg/1200px-Cinema_One_2013_logo.svg.png" group-title="Movies",Cinema One
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/fe8a278cd5312f3.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PBO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3a/PBO_PNG-og_image.png/revision/latest/scale-to-width-down/2000?cb=20201209065132" group-title="Movies",PBO
 http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/110.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/51/JTV2015.svg/revision/latest/scale-to-width-down/1000?cb=20160824071938" group-title="Local",Jeepney TV
