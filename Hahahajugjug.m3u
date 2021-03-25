@@ -149,15 +149,13 @@ http://solotv.me:8080/Line1698/b88d5078/144858
 http://supersonictv.live:25461/903310/034806/22077
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9d/Discovery_Velocity.jpg/revision/latest/scale-to-width-down/584?cb=20150216173138" group-title="Entertainment",Discovery Velocity
 http://supersonictv.live:25461/903310/034806/22078
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="natgeotv.com/App_Resources2/Themes/Default/Images/Main/NGC_logo.png" group-title="Entertainment",National Geographic
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://logodix.com/logo/1356588.jpg" group-title="Entertainment",National Geographic
 http://supersonictv.live:25461/903310/034806/22123
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a6/Nat_Geo_Wild.svg/revision/latest/scale-to-width-down/903?cb=20170426190523" group-title="Entertainment",Nat Geo Wild
 http://supersonictv.live:25461/903310/034806/22122
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5c/Nat_Geo_Kids_%282017%29.png/revision/latest/scale-to-width-down/614?cb=20180408050321" group-title="Entertainment",NatGeo Kids
-http://31.220.40.123:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/738
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d5/History_%282015%29.svg/revision/latest/scale-to-width-down/1000?cb=20180119222457" group-title="Entertainment",History
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/565
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Animal_Planet_2018.svg/revision/latest/scale-to-width-down/1000?cb=20181016205525" group-title="Entertainment",Animal Planet
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://logodix.com/logo/1087943.png" group-title="Entertainment",Animal Planet
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/730
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arirang" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Arirang_logo.png" group-title="South Korea",Arirang
 http://streaming-a-802.cdn.nextologies.com/SBS_Arirang/playlist.m3u8
@@ -187,7 +185,7 @@ http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/120.m3u8
 http://37723998.to:2052/dale1/1234/172142
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://www.freepnglogos.com/uploads/wwe-silver-logo-png-4.png" group-title="Sports",WWE Network
 http://home-playtv.com:8080/mdprime2/primemd/36426
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/74/Fight_Network_%282011%29.svg/revision/latest/scale-to-width-down/600?cb=20200620200504" group-title="Sports",Fight Network
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://cdn.sescoops.com/wp-content/uploads/2017/03/fight.jpg" group-title="Sports",Fight Network
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1122
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ad/FS1_New_Logo.svg/revision/latest/scale-to-width-down/1000?cb=20161013225637" group-title="Sports",Fox Sports 1
 http://37723998.to:2052/dale1/1234/174170
@@ -203,7 +201,7 @@ http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/335
 http://rv.imax.re:80/307211117167/307211117167/78917
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/59/Paramount_Channel.svg/revision/latest/scale-to-width-down/1000?cb=20190430121503" group-title="Movies",Paramanount Network
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/PARAMOUNT-HD-720p/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ae/Fox_Movies_%28Asia%29.svg/revision/latest/scale-to-width-down/1000?cb=20170610113934" group-title="Movies",Fox Movies
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://www.foxmoviesasia.com/images/fm.png" group-title="Movies",Fox Movies
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXMOVIES-HD-1080p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://foxfamilymovies.foxmoviesasia.com/images/fam.png" group-title="Movies",FOX Action Movies
 http://ubaio.chaoniu1995.top:9967/ub/cr/crtv.php?id=385
