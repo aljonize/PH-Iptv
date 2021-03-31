@@ -191,6 +191,18 @@ http://supersonictv.live:25461/dalvin/dalvin/22177
 http://45.126.83.51/session/35a452e0-8c4c-11eb-865c-bfe68300d45c/qwr9ew/s/s34/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Jpvsybc/LotusTV.png" group-title="Movies",Lotus Macau
 http://402173207.cloudvdn.com/a.m3u8?domain=live-hls.macaulotustv.com&player=nh4AAHoDz4NRn24W&secondToken=secondToken%3A6kDCojSbg4qhwU1j8Jgeg_Hvo2M&streamid=lotustv%3Alotustv%2Fmacaulotustv&v3=1
+#EXTINF:-1 tvg-id="Hbo.Asia" tvg-name="HBO" tvg-logo="https://i.ibb.co/xfgvmDd/HBO.png" group-title="Movies",HBO
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
+#EXTINF:-1 tvg-id="Hbh.Asia" tvg-name="HBO Hits" tvg-logo="https://i.ibb.co/hcqXyL5/HBO-HiTS.png" group-title="Movies",HBO Hits
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
+#EXTINF:-1 tvg-id="Hbf.Asia" tvg-name="HBO Family" tvg-logo="https://i.ibb.co/7rVLTHd/HBO-Family-Asia.png" group-title="Movies",HBO Family
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
+#EXTINF:-1 tvg-id="Hbs.Asia" tvg-name="HBO Signature" tvg-logo="https://i.ibb.co/nPV5sNk/HBO-Signature-Asia.png" group-title="Movies",HBO Signature
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
+#EXTINF:-1 tvg-id="Red.Asia" tvg-name="Red by HBO" tvg-logo="https://i.ibb.co/tqGWgHz/Png-Item-340456.png" group-title="Movies",Red by HBO
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
+#EXTINF:-1 tvg-id="Cin.Asia" tvg-name="Cinemax" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/60/Cinemax_%28Black_%26_Red%29.svg/revision/latest/scale-to-width-down/2000?cb=20201205115034" group-title="Movies",Cinemax
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ec/%26flix.svg/revision/latest/scale-to-width-down/620?cb=20200430075815" group-title="Movies",&Flix
 http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/335
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/79/Star_Movies_HD_%28Taiwan%29.jpg/revision/latest/scale-to-width-down/467?cb=20180702150524" group-title="Movies",Star Movies HD
@@ -204,18 +216,7 @@ http://ubaio.chaoniu1995.top:9967/ub/cr/crtv.php?id=385
 #EXTINF:-1 tvg-logo="https://foxfamilymovies.foxmoviesasia.com/images/ffm.png" group-title="Movies",FOX Family Movies
 http://ubaio.chaoniu1995.top:9967/ub/cr/crtv.php?id=383
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/51/Hallmark_Movies_%26_Mysteries_%28Gold%29.svg/revision/latest/scale-to-width-down/1000?cb=20171222094022" group-title="Entertainment",Hallmark Movies
-http://iptvportuguese.live:8010/exiptvtreeex2021/Pxxfw83tmj4MwgZ4/16601
+http://rv.flysat.live:80/307200111632/307200111632/81210
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logosfake/images/d/de/WOWOW_Cinema.png/revision/latest/scale-to-width-down/340?cb=20180131140829" group-title="Movies",WOWOW Cinema
 http://203.162.235.41:16916
-#EXTINF:-1 tvg-id="Hbo.Asia" tvg-name="HBO" tvg-logo="https://i.ibb.co/xfgvmDd/HBO.png" group-title="Movies",HBO
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
-#EXTINF:-1 tvg-id="Hbh.Asia" tvg-name="HBO Hits" tvg-logo="https://i.ibb.co/hcqXyL5/HBO-HiTS.png" group-title="Movies",HBO Hits
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
-#EXTINF:-1 tvg-id="Hbf.Asia" tvg-name="HBO Family" tvg-logo="https://i.ibb.co/7rVLTHd/HBO-Family-Asia.png" group-title="Movies",HBO Family
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
-#EXTINF:-1 tvg-id="Hbs.Asia" tvg-name="HBO Signature" tvg-logo="https://i.ibb.co/nPV5sNk/HBO-Signature-Asia.png" group-title="Movies",HBO Signature
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
-#EXTINF:-1 tvg-id="Red.Asia" tvg-name="Red by HBO" tvg-logo="https://i.ibb.co/tqGWgHz/Png-Item-340456.png" group-title="Movies",Red by HBO
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
-#EXTINF:-1 tvg-id="Cin.Asia" tvg-name="Cinemax" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/60/Cinemax_%28Black_%26_Red%29.svg/revision/latest/scale-to-width-down/2000?cb=20201205115034" group-title="Movies",Cinemax
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
+
