@@ -50,7 +50,7 @@ http://210.210.155.35/session/1f4b9814-7ed5-11e8-aa50-c81f66f89318/uq2663/h/h03/
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Yc1kVr5/bloomberg-business-logo.png" group-title="News", Bloomberg Business
 https://liveprodusphoenixeast.global.ssl.fastly.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-03-0Yn1cQZHOtP_live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/CNA_2019.svg/revision/latest/scale-to-width-down/1000?cb=20190417224656" group-title="News",Channel News Asia
-http://solotv.me:8080/Line1698/b88d5078/172070
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/52/CNN_%282014%29.svg/revision/latest/scale-to-width-down/1000?cb=20180509053533" group-title="News",CNN
 http://37723998.to:2052/dale1/1234/20755
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/32/BBC_World_News_2019.svg/revision/latest/scale-to-width-down/1000?cb=20191123221705" group-title="News",BBC World News
@@ -112,7 +112,7 @@ http://supersonictv.live:25461/903310/034806/22040
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TLC US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/TLC-Logo_2016.png/640px-TLC-Logo_2016.png" group-title="Lifestyle",TLC US
 https://bozztv.com/teleyupp/teleup-tlc/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/59/FoodNetLogo.svg/revision/latest/scale-to-width-down/1000?cb=20170817165558" group-title="Lifestyle",Food Network
-http://vmrs.ddns.net:80/nordtv/KfjHwoZ4WF/403533
+http://supersonictv.live:25461/dalvin/dalvin/22084
 #EXTINF:-1 tvg-id="" tvg-name="PH: Asian Food Channel" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/0cf26c4868361326b1c56886e8c6f0be.png" group-title="Lifestyle",Asian Food Channel
 http://solotv.me:8080/Line1698/b88d5078/144847
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://logodix.com/logo/963313.png" group-title="Entertainment",Tru TV
@@ -235,11 +235,3 @@ https://edge.roku-live.top.comcast.net/out/u/cinemax-west.m3u8
 https://edge.roku-live.top.comcast.net/out/u/showtime-east.m3u8
 #EXTINF:-1 tvg-id="SHOW" tvg-name="Showtime (West)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/500px-Showtime.svg.png" group-title="Movies",Showtime (West)
 https://edge.roku-live.top.comcast.net/out/u/showtime-west.m3u8
-#EXTINF:-1 tvg-id="STAW" tvg-name="STARZ" tvg-logo="https://asset.entpay.9c9media.ca/image-service/version/c:YjRmYWU1MWUtZWU4NS00:ODUzMDYy/image.png" group-title="Movies",STARZ
-http://ed8.oknirvana.club:8880/Upjcd6aFC4/GLNuhnKcg6/29493
-#EXTINF:-1 tvg-id="STAE" tvg-name="STARZ Encore" tvg-logo="https://www.starz.com/guides/starzlibrary/logos/stzenchd_2016_horz_wh_rgb.png" group-title="Movies",STARZ Encore
-http://ed8.oknirvana.club:8880/Upjcd6aFC4/GLNuhnKcg6/29494
-#EXTINF:-1 tvg-id="EPIE" tvg-name="Epix" tvg-logo="https://content.epix.com/logos/epix-logo.png" group-title="Movies",Epix
-http://ed8.oknirvana.club:8880/Upjcd6aFC4/GLNuhnKcg6/59225
-#EXTINF:-1 tvg-id="EPIE2" tvg-name="Epix 2" tvg-logo="https://content.epix.com/logos/epix-2-logo.png" group-title="Movies",Epix 2
-http://ed8.oknirvana.club:8880/Upjcd6aFC4/GLNuhnKcg6/59224
