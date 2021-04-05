@@ -104,7 +104,7 @@ http://37723998.to:2052/dale1/1234/20741
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ETC" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/01/ETC_(2016).svg/revision/latest/scale-to-width-down/2000?cb=20200801100404" group-title="Lifestyle",ETC
 http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/130.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ETC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Logo_AE_Germany.svg/1280px-Logo_AE_Germany.svg.png" group-title="Lifestyle",A&E
-http://supersonictv.live:25461/903310/034806/22040
+https://bk7l2w4nlx53-hls-live.5centscdn.com/AETV/514c04b31b5f01cf00dd4965e197fdda.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TLC US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/TLC-Logo_2016.png/640px-TLC-Logo_2016.png" group-title="Lifestyle",TLC US
 https://bozztv.com/teleyupp/teleup-tlc/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/59/FoodNetLogo.svg/revision/latest/scale-to-width-down/1000?cb=20170817165558" group-title="Lifestyle",Food Network
