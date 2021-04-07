@@ -214,7 +214,7 @@ https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXMOVIES-HD-1080p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://foxfamilymovies.foxmoviesasia.com/images/fam.png" group-title="Movies",FOX Action Movies
 http://ubaio.chaoniu1995.top:9967/ub/cr/crtv.php?id=385
 #EXTINF:-1 tvg-logo="https://foxfamilymovies.foxmoviesasia.com/images/ffm.png" group-title="Movies",FOX Family Movies
-http://ubaio.chaoniu1995.top:9967/ub/cr/crtv.php?id=383
+https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXFAMILY-HD-1080p/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/51/Hallmark_Movies_%26_Mysteries_%28Gold%29.svg/revision/latest/scale-to-width-down/1000?cb=20171222094022" group-title="Entertainment",Hallmark Movies
 http://rv.flysat.live:80/307200111632/307200111632/81210
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logosfake/images/d/de/WOWOW_Cinema.png/revision/latest/scale-to-width-down/340?cb=20180131140829" group-title="Movies",WOWOW Cinema
