@@ -104,15 +104,15 @@ http://37723998.to:2052/dale1/1234/20741
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ETC" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/01/ETC_(2016).svg/revision/latest/scale-to-width-down/2000?cb=20200801100404" group-title="Lifestyle",ETC
 http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/130.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Logo_AE_Germany.svg/1280px-Logo_AE_Germany.svg.png" group-title="Lifestyle",A&E
-http://bazarhd.online:80/307234110115/307234110115/81041
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/20616
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TLC US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/TLC-Logo_2016.png/640px-TLC-Logo_2016.png" group-title="Lifestyle",TLC US
 https://bozztv.com/teleyupp/teleup-tlc/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/59/FoodNetLogo.svg/revision/latest/scale-to-width-down/1000?cb=20170817165558" group-title="Lifestyle",Food Network
-http://bazarhd.online:80/307234110115/307234110115/85068
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/65128
 #EXTINF:-1 tvg-id="" tvg-name="PH: Asian Food Channel" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/0cf26c4868361326b1c56886e8c6f0be.png" group-title="Lifestyle",Asian Food Channel
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AFC-HD-1080p/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://logodix.com/logo/963313.png" group-title="Entertainment",Tru TV
-http://listamy.com:8080/cuco/cuco/328213
+http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/20521
 #EXTINF:-1 tvg-id="" tvg-name="PH: AXN" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/a05464770cd13ec7b1799c6594a9767e.png" group-title="Entertainment",AXN
 http://solotv.me:8080/Line1698/b88d5078/144831
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Rjpsm5T/FOXLife-LA-1.png" group-title="Entertainment",FOX Life
