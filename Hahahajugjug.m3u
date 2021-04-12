@@ -76,7 +76,7 @@ http://tvmedia2.com:8080/andrea/andrea/164559.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Channel V" tvg-logo="https://i.ibb.co/vxQfhzG/Pics-Art-12-12-11-16-05.png" group-title="Music",Channel V
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CHANNELV-HD-1080p/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VH1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/1200px-VH1_logonew.svg.png" group-title="Music",VH1
-http://supersonictv.live:25461/dalvin/dalvin/22178
+http://supersonictv.live:25461/903310/034806/22178
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BabyTV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/ca/Baby_TV.png/revision/latest/scale-to-width-down/800?cb=20111201223043" group-title="Kids",Baby TV
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/485
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/32/36BB0572-D313-4716-816C-042AA4D6B842.png/revision/latest/scale-to-width-down/400?cb=20180112080056" group-title="Kids",Animax
@@ -104,15 +104,15 @@ http://37723998.to:2052/dale1/1234/20741
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ETC" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/01/ETC_(2016).svg/revision/latest/scale-to-width-down/2000?cb=20200801100404" group-title="Lifestyle",ETC
 http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/130.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Logo_AE_Germany.svg/1280px-Logo_AE_Germany.svg.png" group-title="Lifestyle",A&E
-http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/20616
+http://supersonictv.live:25461/903310/034806/22040
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TLC US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/TLC-Logo_2016.png/640px-TLC-Logo_2016.png" group-title="Lifestyle",TLC US
 https://bozztv.com/teleyupp/teleup-tlc/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/59/FoodNetLogo.svg/revision/latest/scale-to-width-down/1000?cb=20170817165558" group-title="Lifestyle",Food Network
-http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/65128
+http://smartersplus.com:8880/FLAF122155/576DYQQ52/3133
 #EXTINF:-1 tvg-id="" tvg-name="PH: Asian Food Channel" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/0cf26c4868361326b1c56886e8c6f0be.png" group-title="Lifestyle",Asian Food Channel
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AFC-HD-1080p/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://logodix.com/logo/963313.png" group-title="Entertainment",Tru TV
-http://forevertv.me:8080/Nomorecable/7xRPcCvPIq/20521
+http://supersonictv.live:25461/903310/034806/22164
 #EXTINF:-1 tvg-id="" tvg-name="PH: AXN" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/a05464770cd13ec7b1799c6594a9767e.png" group-title="Entertainment",AXN
 http://solotv.me:8080/Line1698/b88d5078/144831
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Rjpsm5T/FOXLife-LA-1.png" group-title="Entertainment",FOX Life
@@ -126,33 +126,35 @@ http://203.154.243.89:11205/
 #EXTINF:-1 tvg-logo="https://i.ibb.co/p4G5P34/ABC-TV-2021.png" group-title="Entertainment",ABC TV Australia
 https://c.mjh.nz/101002510251/
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/50/AMC_2013.png/revision/latest/scale-to-width-down/616?cb=20190716055604" group-title="Entertainment",AMC
-http://rv.flysat.live:80/307242117531/307242117531/81045
+http://supersonictv.live:25461/903310/034806/22042
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/96/E%21_1990.svg/revision/latest/scale-to-width-down/309?cb=20180304103018" group-title="Entertainment",E!
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/516
+http://supersonictv.live:25461/903310/034806/22081
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/71/Home_%26_Garden_Television.svg/revision/latest/scale-to-width-down/544?cb=20180409231915" group-title="Entertainment",HGTV
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/564
+http://supersonictv.live:25461/903310/034806/22101
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://logodix.com/logo/373643.png" group-title="Entertainment",TNT
 http://31.220.40.123:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/660
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://logodix.com/logo/452595.png" group-title="Entertainment",Hallmark Channel
-http://37723998.to:2052/dale1/1234/46264
+http://supersonictv.live:25461/903310/034806/22890
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/Hallmark_Drama_%28Gold%29.svg/revision/latest/scale-to-width-down/1000?cb=20171130164502" group-title="Entertainment",Hallmark Drama
-http://rv.flysat.live:80/307200111632/307200111632/81208
+http://supersonictv.live:25461/903310/034806/22892
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://logodix.com/logo/982785.png" group-title="Entertainment",Comedy Central
-http://rv.flysat.live:80/307200111632/307200111632/81060
+http://supersonictv.live:25461/903310/034806/22065
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://logodix.com/logo/997852.png" group-title="Entertainment",Discovery Channel
-http://solotv.me:8080/Line1698/b88d5078/144858
+http://supersonictv.live:25461/903310/034806/22074
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/150px-Discovery_Science_Canada_2011.png/revision/latest/scale-to-width-down/150?cb=20120123233047" group-title="Entertainment",Discovery Science
 http://supersonictv.live:25461/903310/034806/22077
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9d/Discovery_Velocity.jpg/revision/latest/scale-to-width-down/584?cb=20150216173138" group-title="Entertainment",Discovery Velocity
 http://supersonictv.live:25461/903310/034806/22078
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://api.discovery.com/v1/images/557601596b66d10a53cd2403?aspectRatio=original&width=171&height=192&key=3020a40c2356a645b4b4" group-title="Entertainment",Discovery Life
+http://supersonictv.live:25461/903310/034806/22078
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://logodix.com/logo/1356588.jpg" group-title="Entertainment",National Geographic
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/597
+http://supersonictv.live:25461/903310/034806/22123
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a6/Nat_Geo_Wild.svg/revision/latest/scale-to-width-down/903?cb=20170426190523" group-title="Entertainment",Nat Geo Wild
-http://rv.flysat.live:80/307242117531/307242117531/81020
+http://supersonictv.live:25461/903310/034806/22125
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d5/History_%282015%29.svg/revision/latest/scale-to-width-down/1000?cb=20180119222457" group-title="Entertainment",History
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/565
+http://supersonictv.live:25461/903310/034806/22104
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://logodix.com/logo/1087943.png" group-title="Entertainment",Animal Planet
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/730
+http://supersonictv.live:25461/903310/034806/22046
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arirang" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Arirang_logo.png" group-title="South Korea",Arirang
 http://streaming-a-802.cdn.nextologies.com/SBS_Arirang/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="All The K-POP" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwniTQvGjbmo1I789CDbS8b4nPE1UJYHeCcqpPl90yg=s900-c-k-c0x00ffffff-no-rj" group-title="South Korea",All The K-POP
@@ -205,8 +207,6 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ec/%26flix.svg/revision/latest/scale-to-width-down/620?cb=20200430075815" group-title="Movies",&Flix
 http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/335
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/79/Star_Movies_HD_%28Taiwan%29.jpg/revision/latest/scale-to-width-down/467?cb=20180702150524" group-title="Movies",Star Movies HD
-http://rv.imax.re:80/307211117167/307211117167/78917
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/59/Paramount_Channel.svg/revision/latest/scale-to-width-down/1000?cb=20190430121503" group-title="Movies",Paramanount Network
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/PARAMOUNT-HD-720p/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://www.foxmoviesasia.com/images/fm.png" group-title="Movies",Fox Movies
