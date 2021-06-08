@@ -6,9 +6,9 @@ http://103.65.184.145:8443/live/a94fcf08709d77b1a916f434c3044ab9/100.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SMNI" tvg-logo="https://i.imgur.com/l2JSQme.png" group-title="Local",SMNI
 https://api.new.livestream.com/accounts/19079954/events/7831871/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/ba/PTVStackedalt.svg/revision/latest/scale-to-width-down/512?cb=20200807092847" group-title="Local",PTV 4
-http://103.65.184.145:8443/live/5748aabe4c9d661afbd7f4068248f664/101.m3u8
+http://103.65.184.145:8443/live/a94fcf08709d77b1a916f434c3044ab9/101.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/TV5_Logo_%282019%29.svg/revision/latest/scale-to-width-down/340?cb=20190117181956" group-title="Local",TV5
-http://103.65.184.145:8443/live/5748aabe4c9d661afbd7f4068248f664/102.m3u8
+http://103.65.184.145:8443/live/a94fcf08709d77b1a916f434c3044ab9/102.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UNTV" tvg-logo="https://i.imgur.com/7OsxUER.png" group-title="Local",UNTV
 https://www.untvweb.com/live-stream/untvweb.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c2/GMA.png/revision/latest/scale-to-width-down/732?cb=20180729034754" group-title="Local",GMA 7
@@ -36,13 +36,13 @@ http://202.57.43.60:8443/live/3aac2e6ace0f81f5946afe22130cb0f7/105.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/22/Sari-Sari_Channel_logo.png/revision/latest/scale-to-width-down/250?cb=20151206073105" group-title="Local",SariSari
 http://202.57.43.60:8443/live/3aac2e6ace0f81f5946afe22130cb0f7/139.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a2/ANC-2015_%28rev2%29.svg/revision/latest/scale-to-width-down/1000?cb=20151026094948" group-title="News",ANC
-http://202.57.43.60:8443/live/3aac2e6ace0f81f5946afe22130cb0f7/103.m3u8
+http://103.65.184.145:8443/live/a94fcf08709d77b1a916f434c3044ab9/103.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/02/GTV_Philippines_%28official_logo%29.png/revision/latest/scale-to-width-down/822?cb=20210302112414" group-title="News",GTV
-http://202.57.43.60:8443/live/3aac2e6ace0f81f5946afe22130cb0f7/107.m3u8
+http://103.65.184.145:8443/live/a94fcf08709d77b1a916f434c3044ab9/107.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/93/DZRH_80.jpg/revision/latest/scale-to-width-down/960?cb=20190511220824" group-title="News",DZRH
-http://202.57.43.60:8443/live/3aac2e6ace0f81f5946afe22130cb0f7/108.m3u8
+http://103.65.184.145:8443/live/a94fcf08709d77b1a916f434c3044ab9/108.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/48/CNN_Philippines_Logo.svg/revision/latest/scale-to-width-down/512?cb=20200505183052" group-title="News",CNN Philippines
-http://202.57.43.60:8443/live/3aac2e6ace0f81f5946afe22130cb0f7/104.m3u8
+http://103.65.184.145:8443/live/a94fcf08709d77b1a916f434c3044ab9/104.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PH: Al Jazeera HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/239de1f410cb55555c0bcb897a88de95.png" group-title="News",Al Jazeera HD
 http://iptv.live-plus.me:25461/xQo77lvl79/U6m7QCkfxC/255
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTFnf22GZ9YOwThSvjiqOhWlfFy2G2Sn2RL9Q&usqp=CAU" group-title="News",NHK World Japan
@@ -68,7 +68,7 @@ http://202.57.43.60:8443/live/3aac2e6ace0f81f5946afe22130cb0f7/124.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/50/Knowledge-Channel-2010-Logo-ABS-CBN-Philippines.png/revision/latest/scale-to-width-down/900?cb=20181001092821" group-title="Learning",K Channel
 http://202.57.43.60:8443/live/3aac2e6ace0f81f5946afe22130cb0f7/135.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DepEd TV" tvg-logo="https://i.ibb.co/jgky5WK/New-Project.png" group-title="Learning",DepEd TV
-http://59c3ec70cfde0.streamlock.net/channel_7/channel7/chunklist.m3u8
+http://103.65.184.145:8443/live/a94fcf08709d77b1a916f434c3044ab9/98.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/90/SOLARLEARNING.png/revision/latest/scale-to-width-down/756?cb=20200815083543" group-title="Learning",Solar Learning
 http://202.57.43.60:8443/live/3aac2e6ace0f81f5946afe22130cb0f7/123.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0f/Myxphlogo.svg/revision/latest/scale-to-width-down/512?cb=20201226043939" group-title="Music",MYX
