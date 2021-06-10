@@ -4,7 +4,7 @@ https://cdn3.wowza.com/1/YW5wSWZiRGd2eFlU/bGV0aVBq/hls/ttr8f1yp/2728/chunklist.m
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2b/Kapamilya_Channel_logo.svg/revision/latest/scale-to-width-down/732?cb=20200819050409" group-title="Local",Kapamilya Channel
 http://103.65.184.145:8443/live/a94fcf08709d77b1a916f434c3044ab9/100.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://i1.wp.com/jescom.ph/wp-content/uploads/2019/05/Minor-Basilica-Quiapo-Logo-fifth.png?ssl=1" group-title="Local",Quiapo Church Live Mass
-https://iptv--iptv.repl.co/streamlink?url=https://www.youtube.com/watch?v=yNlGLNBwTTw
+https://iptv--iptv.repl.co/streamlink?url=https://www.facebook.com/quiapochurch/videos/1284010208719225/
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SMNI" tvg-logo="https://i.imgur.com/l2JSQme.png" group-title="Local",SMNI
 https://api.new.livestream.com/accounts/19079954/events/7831871/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/ba/PTVStackedalt.svg/revision/latest/scale-to-width-down/512?cb=20200807092847" group-title="Local",PTV 4
