@@ -80,11 +80,11 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CHANNELV-HD-1080p/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="VH1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/1200px-VH1_logonew.svg.png" group-title="Music",VH1
 http://supersonictv.live:25461/903310/034806/22178
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BabyTV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/ca/Baby_TV.png/revision/latest/scale-to-width-down/800?cb=20111201223043" group-title="Kids",Baby TV
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/485
+http://916309128f3e.sn.mynetname.net:1935/aslive/babytv/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/32/36BB0572-D313-4716-816C-042AA4D6B842.png/revision/latest/scale-to-width-down/400?cb=20180112080056" group-title="Kids",Animax
-http://103.65.184.145:8443/live/a94fcf08709d77b1a916f434c3044ab9/125.m3u8
+http://185.180.221.194:8278/streams/d/Animax/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ee/Cartoon_Network_2010.svg/revision/latest/scale-to-width-down/1000?cb=20190401004340" group-title="Kids",Cartoon Network
-http://smartersplus.com:8880/FLAF122155/576DYQQ52/3152
+https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CARTOON-SD-720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jV9yP4n/Pics-Art-10-31-08-15-45.png" group-title="Kids",Cartoon Network HD
 https://fikrulmkc.my.id/bagus/usee-cartoonnetwork.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/49/Boomerang_2015.svg/revision/latest/scale-to-width-down/1000?cb=20190430185347" group-title="Kids",Boomerang
@@ -100,7 +100,7 @@ http://103.65.184.145:8443/live/a94fcf08709d77b1a916f434c3044ab9/105.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/50/Nicktoons_2009.svg/revision/latest/scale-to-width-down/1000?cb=20160417102441" group-title="Kids",Nicktoons
 http://smartersplus.com:8880/FLAF122155/576DYQQ52/3103
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/55/Nick_Jr..svg/revision/latest/scale-to-width-down/1000?cb=20200621143500" group-title="Kids",Nick Jr
-http://smartersplus.com:8880/FLAF122155/576DYQQ52/31572
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6813
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ETC" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/01/ETC_(2016).svg/revision/latest/scale-to-width-down/2000?cb=20200801100404" group-title="Lifestyle",ETC
 http://103.65.184.145:8443/live/a94fcf08709d77b1a916f434c3044ab9/130.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Logo_AE_Germany.svg/1280px-Logo_AE_Germany.svg.png" group-title="Lifestyle",A&E
